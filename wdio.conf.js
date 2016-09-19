@@ -45,7 +45,9 @@ exports.config = {
         maxInstances: 5,
         //
         browserName: 'phantomjs',
-        'phantomjs.binary.path': 'phantomjs/bin/phantomjs.exe'
+        'phantomjs.binary.path': 'phantomjsmac/bin/phantomjs'
+        //widows 'phantomjs.binary.path': 'phantomjs/bin/phantomjs.exe'
+
     }],
     //
     // ===================
