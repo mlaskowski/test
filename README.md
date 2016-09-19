@@ -1,11 +1,12 @@
 requirements :
-Node js
-Npm 
+Node js,
+Npm,
+Gulp,
 java jdk (min v7)
 
 installation:
-clone repository
-go to folder where cloned
+clone repository,
+go to inside cloned folder,
 npm install
 
 usage:
